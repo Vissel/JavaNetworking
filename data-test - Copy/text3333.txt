@@ -1,0 +1,3 @@
+111	Nguyễn Ngọc Thạch	7.5
+222	Nguyễn Ngoc Hân	9.1
+333	Nguyễn Minh Tùng	8.0

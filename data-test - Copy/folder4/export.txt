@@ -1,0 +1,4 @@
+111	Nguy?n Ng?c Th?ch	10
+222	Nguy?n Minh Tùng	9
+333	D??ng Bích Ng?c	9.5
+444	Tr?n V?n Quy?t	8.8
