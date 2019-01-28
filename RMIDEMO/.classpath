@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/product.jar"/>
+	<classpathentry kind="lib" path="src/download.jar"/>
+	<classpathentry kind="lib" path="library/filecopy.jar"/>
+	<classpathentry kind="lib" path="library/fileupdownload.jar"/>
+	<classpathentry kind="lib" path="library/caculate.jar"/>
+	<classpathentry kind="lib" path="library/studentlist.jar"/>
+	<classpathentry kind="lib" path="library/sanpham.jar"/>
+	<classpathentry kind="lib" path="library/file.jar"/>
+	<classpathentry kind="lib" path="library/word.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
